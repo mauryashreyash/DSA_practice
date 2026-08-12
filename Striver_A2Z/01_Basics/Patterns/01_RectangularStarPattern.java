@@ -1,5 +1,4 @@
 // Pattern-1: Rectangular Star Pattern
-
 // Problem Statement: Given an integer N, print the following pattern.
 
 // *****
@@ -38,3 +37,8 @@ class RectangularStarPattern {
         pattern(N);     // Call the function to print the pattern
     }
 }
+
+// Complexity Analysis
+
+// Time Complexity: O(N²), since we print N stars for each of the N rows.
+// Space Complexity: O(1), no additional space is used apart from loop variables.
