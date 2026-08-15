@@ -29,12 +29,22 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
+| [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 ## String
 |  |
 | ------- |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
+| [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
+## Array
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
