@@ -55,6 +55,7 @@ Happy Coding! 😄
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,4 +101,8 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/mauryashreyash/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
