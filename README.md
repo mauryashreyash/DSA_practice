@@ -129,5 +129,10 @@ Happy Coding! 😄
 ## Binary Search
 |  |
 | ------- |
+| [0483-smallest-good-base](https://github.com/mauryashreyash/DSA_practice/tree/master/0483-smallest-good-base) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
+## Math
+|  |
+| ------- |
+| [0483-smallest-good-base](https://github.com/mauryashreyash/DSA_practice/tree/master/0483-smallest-good-base) |
 <!---LeetCode Topics End-->
