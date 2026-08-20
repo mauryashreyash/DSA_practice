@@ -29,6 +29,6 @@ class Solution {
             }
         }
 
-        return new int[9];
+        return new int[0];
     }
 }
