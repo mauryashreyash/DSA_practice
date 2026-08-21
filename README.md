@@ -35,6 +35,7 @@ Happy Coding! 😄
 | ------- |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ Happy Coding! 😄
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/0386-lexicographical-numbers) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,11 +83,13 @@ Happy Coding! 😄
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Graph Theory
 |  |
 | ------- |
@@ -146,4 +150,8 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
+## Backtracking
+|  |
+| ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
