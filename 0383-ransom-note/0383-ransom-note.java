@@ -10,9 +10,9 @@ class Solution {
             count[ch - 'a']--;
 
             if (count[ch - 'a'] < 0) {
-                return false;
+         ;       return false;
             }
-        };
+        }
 
         return true;
     }
