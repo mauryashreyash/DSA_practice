@@ -34,6 +34,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -120,12 +121,14 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
@@ -162,6 +165,7 @@ Happy Coding! 😄
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
