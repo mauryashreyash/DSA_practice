@@ -15,7 +15,7 @@ class Palindrome{
             }
     }
     public static void main(String [] args){
-        int N = 1234321;
-        palindrome(N);
+        int N = 25966952;
+        palindrome(N);  
     }
 }
