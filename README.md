@@ -54,6 +54,7 @@ Happy Coding! 😄
 | [1584-min-cost-to-connect-all-points](https://github.com/mauryashreyash/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Happy Coding! 😄
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Happy Coding! 😄
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,4 +182,20 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
