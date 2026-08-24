@@ -33,6 +33,7 @@ Happy Coding! 😄
 ## String
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
@@ -65,6 +66,7 @@ Happy Coding! 😄
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mauryashreyash/DSA_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -121,6 +123,7 @@ Happy Coding! 😄
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/0386-lexicographical-numbers) |
 ## Hash Table
 |  |
@@ -159,6 +162,7 @@ Happy Coding! 😄
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
