@@ -131,6 +131,7 @@ Happy Coding! 😄
 | ------- |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
@@ -158,6 +159,7 @@ Happy Coding! 😄
 ## Math
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0483-smallest-good-base](https://github.com/mauryashreyash/DSA_practice/tree/master/0483-smallest-good-base) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -215,4 +217,12 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0210-course-schedule-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
