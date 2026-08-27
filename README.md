@@ -49,6 +49,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
+| [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
@@ -88,11 +89,13 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
+| [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
 ## Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -225,4 +228,8 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
 <!---LeetCode Topics End-->
