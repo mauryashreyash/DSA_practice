@@ -53,6 +53,7 @@ Happy Coding! 😄
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mauryashreyash/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -62,6 +63,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Happy Coding! 😄
 | ------- |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
 ## Ordered Set
