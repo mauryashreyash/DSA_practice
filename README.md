@@ -59,6 +59,7 @@ Happy Coding! 😄
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mauryashreyash/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mauryashreyash/DSA_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
@@ -66,6 +67,7 @@ Happy Coding! 😄
 | ------- |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mauryashreyash/DSA_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Depth-First Search
 |  |
 | ------- |
