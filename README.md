@@ -72,6 +72,7 @@ Happy Coding! 😄
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0210-course-schedule-ii) |
@@ -83,6 +84,7 @@ Happy Coding! 😄
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0210-course-schedule-ii) |
@@ -100,6 +102,7 @@ Happy Coding! 😄
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
@@ -107,6 +110,7 @@ Happy Coding! 😄
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
