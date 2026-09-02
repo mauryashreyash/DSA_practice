@@ -53,6 +53,7 @@ Happy Coding! 😄
 | [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/mauryashreyash/DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -66,6 +67,7 @@ Happy Coding! 😄
 ## Greedy
 |  |
 | ------- |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/mauryashreyash/DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mauryashreyash/DSA_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -156,6 +158,7 @@ Happy Coding! 😄
 | ------- |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/mauryashreyash/DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -225,6 +228,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/mauryashreyash/DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
