@@ -202,6 +202,7 @@ Happy Coding! 😄
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mauryashreyash/DSA_practice/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -254,6 +255,7 @@ Happy Coding! 😄
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mauryashreyash/DSA_practice/tree/master/0191-number-of-1-bits) |
 | [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
 ## Recursion
 |  |
