@@ -38,6 +38,7 @@ Happy Coding! 😄
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0537-complex-number-multiplication](https://github.com/mauryashreyash/DSA_practice/tree/master/0537-complex-number-multiplication) |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -184,6 +185,7 @@ Happy Coding! 😄
 | [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0483-smallest-good-base](https://github.com/mauryashreyash/DSA_practice/tree/master/0483-smallest-good-base) |
+| [0537-complex-number-multiplication](https://github.com/mauryashreyash/DSA_practice/tree/master/0537-complex-number-multiplication) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
@@ -234,6 +236,7 @@ Happy Coding! 😄
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/mauryashreyash/DSA_practice/tree/master/0537-complex-number-multiplication) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
