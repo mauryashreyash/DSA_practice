@@ -182,6 +182,7 @@ Happy Coding! 😄
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/mauryashreyash/DSA_practice/tree/master/0089-gray-code) |
 | [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0483-smallest-good-base](https://github.com/mauryashreyash/DSA_practice/tree/master/0483-smallest-good-base) |
@@ -199,11 +200,13 @@ Happy Coding! 😄
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/mauryashreyash/DSA_practice/tree/master/0089-gray-code) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/mauryashreyash/DSA_practice/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/mauryashreyash/DSA_practice/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
