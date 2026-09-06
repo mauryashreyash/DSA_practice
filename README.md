@@ -83,6 +83,7 @@ Happy Coding! 😄
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mauryashreyash/DSA_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0572-subtree-of-another-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0572-subtree-of-another-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
@@ -109,6 +110,7 @@ Happy Coding! 😄
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
+| [0572-subtree-of-another-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0572-subtree-of-another-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -116,6 +118,7 @@ Happy Coding! 😄
 | [0101-symmetric-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0572-subtree-of-another-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Graph Theory
 |  |
@@ -267,4 +270,12 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/2094-finding-3-digit-even-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
