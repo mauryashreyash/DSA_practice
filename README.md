@@ -40,6 +40,7 @@ Happy Coding! 😄
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/mauryashreyash/DSA_practice/tree/master/0537-complex-number-multiplication) |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mauryashreyash/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -47,6 +48,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 ## Array
 |  |
 | ------- |
