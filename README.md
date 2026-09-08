@@ -53,6 +53,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
+| [0406-queue-reconstruction-by-height](https://github.com/mauryashreyash/DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -163,6 +164,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/mauryashreyash/DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mauryashreyash/DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
@@ -201,6 +203,7 @@ Happy Coding! 😄
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/mauryashreyash/DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
 ## Backtracking
 |  |
@@ -280,4 +283,8 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0572-subtree-of-another-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/mauryashreyash/DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
