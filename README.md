@@ -68,6 +68,7 @@ Happy Coding! 😄
 | [2094-finding-3-digit-even-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mauryashreyash/DSA_practice/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Happy Coding! 😄
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2363-merge-similar-items](https://github.com/mauryashreyash/DSA_practice/tree/master/2363-merge-similar-items) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mauryashreyash/DSA_practice/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Ordered Set
 |  |
 | ------- |
