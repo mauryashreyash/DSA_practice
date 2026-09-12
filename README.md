@@ -54,6 +54,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
+| [0303-range-sum-query-immutable](https://github.com/mauryashreyash/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/mauryashreyash/DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0427-construct-quad-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0427-construct-quad-tree) |
@@ -209,6 +210,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0303-range-sum-query-immutable](https://github.com/mauryashreyash/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/mauryashreyash/DSA_practice/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
@@ -297,4 +299,8 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/mauryashreyash/DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mauryashreyash/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
