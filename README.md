@@ -66,6 +66,7 @@ Happy Coding! 😄
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mauryashreyash/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mauryashreyash/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mauryashreyash/DSA_practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mauryashreyash/DSA_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/2094-finding-3-digit-even-numbers) |
