@@ -48,11 +48,13 @@ Happy Coding! 😄
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mauryashreyash/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mauryashreyash/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/mauryashreyash/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
