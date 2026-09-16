@@ -49,12 +49,14 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mauryashreyash/DSA_practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0119-pascals-triangle-ii) |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 ## Array
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mauryashreyash/DSA_practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/mauryashreyash/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
