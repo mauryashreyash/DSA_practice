@@ -32,6 +32,7 @@ Happy Coding! 😄
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
+| [0922-sort-array-by-parity-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 ## String
 |  |
@@ -68,6 +69,7 @@ Happy Coding! 😄
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mauryashreyash/DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
+| [0922-sort-array-by-parity-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -183,6 +185,7 @@ Happy Coding! 😄
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mauryashreyash/DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0888-fair-candy-swap](https://github.com/mauryashreyash/DSA_practice/tree/master/0888-fair-candy-swap) |
+| [0922-sort-array-by-parity-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mauryashreyash/DSA_practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mauryashreyash/DSA_practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/2094-finding-3-digit-even-numbers) |
