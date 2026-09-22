@@ -37,6 +37,7 @@ Happy Coding! 😄
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mauryashreyash/DSA_practice/tree/master/0013-roman-to-integer) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
@@ -167,6 +168,7 @@ Happy Coding! 😄
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mauryashreyash/DSA_practice/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
@@ -212,6 +214,7 @@ Happy Coding! 😄
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mauryashreyash/DSA_practice/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/mauryashreyash/DSA_practice/tree/master/0089-gray-code) |
 | [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
