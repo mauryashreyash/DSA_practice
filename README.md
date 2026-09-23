@@ -28,6 +28,7 @@ Happy Coding! 😄
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/mauryashreyash/DSA_practice/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -61,6 +62,7 @@ Happy Coding! 😄
 | ------- |
 | [0118-pascals-triangle](https://github.com/mauryashreyash/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/mauryashreyash/DSA_practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mauryashreyash/DSA_practice/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/mauryashreyash/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -216,6 +218,7 @@ Happy Coding! 😄
 | ------- |
 | [0013-roman-to-integer](https://github.com/mauryashreyash/DSA_practice/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/mauryashreyash/DSA_practice/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/mauryashreyash/DSA_practice/tree/master/0189-rotate-array) |
 | [0398-random-pick-index](https://github.com/mauryashreyash/DSA_practice/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0483-smallest-good-base](https://github.com/mauryashreyash/DSA_practice/tree/master/0483-smallest-good-base) |
