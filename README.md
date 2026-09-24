@@ -29,6 +29,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mauryashreyash/DSA_practice/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mauryashreyash/DSA_practice/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -40,6 +41,7 @@ Happy Coding! 😄
 | ------- |
 | [0013-roman-to-integer](https://github.com/mauryashreyash/DSA_practice/tree/master/0013-roman-to-integer) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0344-reverse-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
