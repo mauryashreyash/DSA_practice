@@ -41,6 +41,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mauryashreyash/DSA_practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mauryashreyash/DSA_practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/mauryashreyash/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0344-reverse-string) |
@@ -64,6 +65,7 @@ Happy Coding! 😄
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mauryashreyash/DSA_practice/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/mauryashreyash/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/mauryashreyash/DSA_practice/tree/master/0189-rotate-array) |
@@ -169,6 +171,7 @@ Happy Coding! 😄
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mauryashreyash/DSA_practice/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/0386-lexicographical-numbers) |
 ## Hash Table
