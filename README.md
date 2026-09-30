@@ -50,6 +50,7 @@ Happy Coding! 😄
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mauryashreyash/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/mauryashreyash/DSA_practice/tree/master/0537-complex-number-multiplication) |
+| [0796-rotate-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0796-rotate-string) |
 | [0838-push-dominoes](https://github.com/mauryashreyash/DSA_practice/tree/master/0838-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/mauryashreyash/DSA_practice/tree/master/0942-di-string-match) |
@@ -316,6 +317,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mauryashreyash/DSA_practice/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
