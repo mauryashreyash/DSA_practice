@@ -44,6 +44,7 @@ Happy Coding! 😄
 | [0014-longest-common-prefix](https://github.com/mauryashreyash/DSA_practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/mauryashreyash/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mauryashreyash/DSA_practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/mauryashreyash/DSA_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
@@ -179,6 +180,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mauryashreyash/DSA_practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/mauryashreyash/DSA_practice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mauryashreyash/DSA_practice/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
@@ -192,6 +194,7 @@ Happy Coding! 😄
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mauryashreyash/DSA_practice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/mauryashreyash/DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
