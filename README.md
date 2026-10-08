@@ -28,6 +28,7 @@ Happy Coding! 😄
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mauryashreyash/DSA_practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mauryashreyash/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mauryashreyash/DSA_practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/mauryashreyash/DSA_practice/tree/master/0344-reverse-string) |
@@ -68,6 +69,7 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mauryashreyash/DSA_practice/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/mauryashreyash/DSA_practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mauryashreyash/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/mauryashreyash/DSA_practice/tree/master/0189-rotate-array) |
@@ -194,6 +196,7 @@ Happy Coding! 😄
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mauryashreyash/DSA_practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/mauryashreyash/DSA_practice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mauryashreyash/DSA_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/mauryashreyash/DSA_practice/tree/master/0389-find-the-difference) |
@@ -333,4 +336,12 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mauryashreyash/DSA_practice/tree/master/0303-range-sum-query-immutable) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mauryashreyash/DSA_practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mauryashreyash/DSA_practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
