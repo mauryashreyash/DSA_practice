@@ -280,6 +280,7 @@ Happy Coding! 😄
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mauryashreyash/DSA_practice/tree/master/0203-remove-linked-list-elements) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mauryashreyash/DSA_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mauryashreyash/DSA_practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mauryashreyash/DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -319,6 +320,7 @@ Happy Coding! 😄
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mauryashreyash/DSA_practice/tree/master/0203-remove-linked-list-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mauryashreyash/DSA_practice/tree/master/2094-finding-3-digit-even-numbers) |
 ## String Matching
 |  |
